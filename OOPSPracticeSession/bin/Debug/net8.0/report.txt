@@ -1,0 +1,2 @@
+Title: Monthly Sales
+Content: Sales increased by 20% this month.
