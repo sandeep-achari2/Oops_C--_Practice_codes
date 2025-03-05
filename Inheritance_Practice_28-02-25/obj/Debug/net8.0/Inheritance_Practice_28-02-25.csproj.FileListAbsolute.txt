@@ -1,0 +1,14 @@
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\bin\Debug\net8.0\Inheritance_Practice_28-02-25.exe
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\bin\Debug\net8.0\Inheritance_Practice_28-02-25.deps.json
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\bin\Debug\net8.0\Inheritance_Practice_28-02-25.runtimeconfig.json
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\bin\Debug\net8.0\Inheritance_Practice_28-02-25.dll
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\bin\Debug\net8.0\Inheritance_Practice_28-02-25.pdb
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.AssemblyInfoInputs.cache
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.AssemblyInfo.cs
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.csproj.CoreCompileInputs.cache
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.dll
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\refint\Inheritance_Practice_28-02-25.dll
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.pdb
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\Inheritance_Practice_28-02-25.genruntimeconfig.cache
+C:\Users\le\source\repos\Inheritance_Practice_28-02-25\obj\Debug\net8.0\ref\Inheritance_Practice_28-02-25.dll
